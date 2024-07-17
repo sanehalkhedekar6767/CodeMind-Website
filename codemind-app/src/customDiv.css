@@ -1,0 +1,31 @@
+.customDiv {
+  background-color: #b9d6dd;
+  height: 100vh;
+}
+
+.navigationBar{
+  background-color: #95b4bb;
+}
+
+.image{
+  padding-right: 20px
+}
+
+.list{
+  display: inline-block;
+  text-align: left;
+}
+
+li span{
+  color: greenyellow;
+}
+.list{
+  color: navy;
+}
+h3 span{
+  color:navy;
+  
+}
+#codemind{
+  margin: 0px 100px 0px 0px ;
+}
